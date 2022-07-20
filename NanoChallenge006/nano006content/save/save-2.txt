@@ -1,0 +1,1 @@
+{"hero":{"name":"Manhattan","healthPoints":45,"inventory":{"stacks":[{"amount":1,"item":{"id":1,"name":"Poção de vida"}}]}},"gameOver":false,"save":2,"progress":2}

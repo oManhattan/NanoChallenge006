@@ -1,0 +1,11 @@
+
+██╗███╗░░██╗░██████╗████████╗██████╗░██╗░░░██╗░█████╗░░█████╗░███████╗░██████╗
+██║████╗░██║██╔════╝╚══██╔══╝██╔══██╗██║░░░██║██╔══██╗██╔══██╗██╔════╝██╔════╝
+██║██╔██╗██║╚█████╗░░░░██║░░░██████╔╝██║░░░██║██║░░╚═╝██║░░██║█████╗░░╚█████╗░
+██║██║╚████║░╚═══██╗░░░██║░░░██╔══██╗██║░░░██║██║░░██╗██║░░██║██╔══╝░░░╚═══██╗
+██║██║░╚███║██████╔╝░░░██║░░░██║░░██║╚██████╔╝╚█████╔╝╚█████╔╝███████╗██████╔╝
+╚═╝╚═╝░░╚══╝╚═════╝░░░░╚═╝░░░╚═╝░░╚═╝░╚═════╝░░╚════╝░░╚════╝░╚══════╝╚═════╝░
+
+O objetivo do jogo é auxiliar o jogador em alguns conhecimentos da matemática. Ao longo da jornada, serão apresentados conteúdos sobre a matéria em questão e apresentadas perguntas ao jogador. O mesmo deverá selecionar as opções válidas para que ele possa avançar no jogo e a cada questão, o jogador sofrerá um dano se errar, diminuindo assim sua vida.
+
+O objetivo final do jogador, é avançar por todos os templos para derrotar o último chefe, sem perder toda a sua vida.

@@ -1,0 +1,36 @@
+████████╗███████╗███╗░░░███╗██████╗░██╗░░░░░░█████╗░  ██████╗░░███╗░  ░██████╗░██████╗░░█████╗░██╗░░░██╗
+╚══██╔══╝██╔════╝████╗░████║██╔══██╗██║░░░░░██╔══██╗  ╚════██╗░█ █║░  ██╔════╝░██╔══██╗██╔══██╗██║░░░██║
+░░░██║░░░█████╗░░██╔████╔██║██████╔╝██║░░░░░██║░░██║  ░░███╔═╝░███║░  ██║░░██╗░██████╔╝███████║██║░░░██║
+░░░██║░░░██╔══╝░░██║╚██╔╝██║██╔═══╝░██║░░░░░██║░░██║  ██╔══╝░░░╚══╝░  ██║░░╚██╗██╔══██╗██╔══██║██║░░░██║
+░░░██║░░░███████╗██║░╚═╝░██║██║░░░░░███████╗╚█████╔╝  ███████╗░░░░░░  ╚██████╔╝██║░░██║██║░░██║╚██████╔╝
+░░░╚═╝░░░╚══════╝╚═╝░░░░░╚═╝╚═╝░░░░░╚══════╝░╚════╝░  ╚══════╝░░░░░░  ░╚═════╝░╚═╝░░╚═╝╚═╝░░╚═╝░╚═════╝░
+
+Narrador: Com a grande primeira batalha travada, nomeJogador continuou em sua jornada para o próximo templo adentrando no próximo portal.
+
+Voz Desconhecida: Olá nomeJogador, que bom que você sobreviveu!
+
+Voz Desconhecida: Precisamos continuar sua batalha.
+
+Voz Desconhecida: O poder deste templo são às Equações de 2º Grau, elas serão o fortalecimento do seu poder. Para derrotar os desafios à frente, você irá precisar dos conhecimentos básicos a fim de quebrar os feitiços que serão lançados a ti. Então preste muita atenção...
+
+Voz Desconhecida: As equações de segundo grau são caracterizadas por um polinômio de grau 2, ou seja, um polinômio do tipo ax² + bx + c, em que a, b e c são números reais. Ao resolvermos uma equação de grau 2, estamos interessados em encontrar valores para a incógnita x que torne o valor da expressão igual a 0, que são chamadas de raízes, isto é, ax² + bx + c = 0.
+
+Voz Desconhecida: A equação do 2º grau é classificada como completa quando todos os coeficientes são diferentes de 0, ou seja, a != 0, b != 0 e c != 0. A equação do 2º grau é classificada como incompleta quando o valor dos coeficientes b ou c são iguais a 0, isto é, b = 0 ou c = 0.
+
+Voz Desconhecida: Para solucionar equações do tipo ax² + c = 0, o método para determinar a solução de equações incompletas que possuem b = 0 consiste em isolar a incógnita x.
+
+Voz Desconhecida: Para solucionar equações do tipo ax² + bx = 0, o método para determinar as possíveis soluções de uma equação com c = 0, consiste em utilizar a fatoração por evidência.
+
+Voz Desconhecida: Para solucionar equações completas, o método conhecido como método de Bhaskara ou fórmula de Bhaskara aponta que as raízes de uma equação do 2º grau do tipo ax² + bx + c = 0 é dada pela seguinte relação:
+
+Voz Desconhecida: Raíz 1 =  (-b + (Raiz Quadrada(Delta)) / 2.a | Delta = b² - 4.a.c
+
+Voz Desconhecida: Raíz 2 =  (-b - (Raiz Quadrada(Delta)) / 2.a | Delta = b² - 4.a.c
+
+Voz Desconhecida: Quando o Delta for positivo: existem duas soluções para a equação. Quando o Delta for igual a zero: as soluções da equação são repetidas. Quando o Delta for negativo: não admite solução real.
+
+Voz Desconhecida: Agora você está pronto para o caminho em frente. Espero que consiga vencer novamente!
+
+Narrador: E com essa despedida, nomeJogador saiu de sua viagem mística e já estava em apuros de novo.
+
+Ancelot: Eu me descuidei da primeira vez, mas dessa vez será diferente. Você será derrotado através desses meus novos 3 feitiços.

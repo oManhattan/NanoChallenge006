@@ -1,0 +1,24 @@
+Narrador: nomeJogador adentra no templo das Equações de 1º Grau, um lugar que lhe faz relembrar dos seus inícios de treinamento de mago. Tanto é, que esse conhecimento era a base dos seus grandiosos poderes.
+ 
+Narrador: Os templos possuem feitiços incríveis e fazem com quem adentrar ao local tenha a sabedoria para conquistar o poder armazenado nele. E não foi diferente com esse templo. nomeJogador após passar por um portal mágico do templo, teve uma viagem mística até onde estavam os desafios para recuperar seu poder. Dentro dessa viagem, uma voz desconhecida lhe passou os seguintes ensinamentos...
+ 
+Voz Desconhecida: Olá nomeJogador, que bom te ver aqui!
+ 
+nomeJogador: Quem é você?
+ 
+Voz Desconhecida: Não se preocupe, sou apenas um ajudante de Ariandre e estou aqui para ajudar em sua jornada. Não temos muito tempo a frente então serei o mais rápido possível, isso lhe guiará nos seus próximos desafios daqui para frente.
+ 
+Narrador: E parecendo uma voz familiar, nomeJogador escutou os ensinamentos que a voz desconhecida tinha a oferecer.
+ 
+Voz Desconhecida: O poder deste templo são às Equações de 1º Grau, elas serão a base para sua fonte de poder. Para derrotar os desafios à frente, você irá precisar dos conhecimentos básicos a fim de quebrar os feitiços que serão lançados a ti. Então preste muita atenção.
+ 
+Voz Desconhecida: As equações de primeiro grau são sentenças matemáticas que estabelecem relações de igualdade entre termos conhecidos e desconhecidos, representadas sob a forma: ax+b = 0. Donde a e b são números reais, sendo a um valor diferente de zero (a != 0) e x representa o valor desconhecido. O valor desconhecido é chamado de incógnita que significa "termo a determinar". As equações do 1º grau podem apresentar uma ou mais incógnitas.
+ 
+Voz Desconhecida: O objetivo de resolver uma equação de primeiro grau é descobrir o valor desconhecido, ou seja, encontrar o valor da incógnita que torna a igualdade verdadeira. Para isso, deve-se isolar os elementos desconhecidos em um dos lados do sinal de igual e os valores constantes do outro lado. Contudo, é importante observar que a mudança de posição desses elementos deve ser feita de forma que a igualdade continue sendo verdadeira. Quando um termo da equação mudar de lado do sinal de igual, devemos inverter a operação. Assim, se tiver multiplicando, passará dividindo, se tiver somando, passará subtraindo e vice-versa.
+ 
+Voz Desconhecida: Agora você está pronto para o caminho em frente. Espero te ver logo, adeus...
+ 
+Narrador: E com essa despedida, nomeJogador saiu de sua viagem mística e já estava em apuros.
+ 
+Ancelot
+ - Parece que você sobreviveu depois de tudo aquilo e ainda conseguiu chegar até aqui. Você não terá seu poder de volta tão fácil HAHAHHA. Veremos se você é realmente capaz de enfrentar meus 3 feitiços.

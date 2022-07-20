@@ -1,0 +1,77 @@
+████████╗███████╗███╗░░░███╗██████╗░██╗░░░░░░█████╗░
+╚══██╔══╝██╔════╝████╗░████║██╔══██╗██║░░░░░██╔══██╗
+░░░██║░░░█████╗░░██╔████╔██║██████╔╝██║░░░░░██║░░██║
+░░░██║░░░██╔══╝░░██║╚██╔╝██║██╔═══╝░██║░░░░░██║░░██║
+░░░██║░░░███████╗██║░╚═╝░██║██║░░░░░███████╗╚█████╔╝
+░░░╚═╝░░░╚══════╝╚═╝░░░░░╚═╝╚═╝░░░░░╚══════╝░╚════╝░
+
+░█████╗░░█████╗░███╗░░██╗██╗░░░██╗███████╗██████╗░░██████╗░█████╗░░█████╗░  ██████╗░███████╗
+██╔══██╗██╔══██╗████╗░██║██║░░░██║██╔════╝██╔══██╗██╔════╝██╔══██╗██╔══██╗  ██╔══██╗██╔════╝
+██║░░╚═╝██║░░██║██╔██╗██║╚██╗░██╔╝█████╗░░██████╔╝╚█████╗░███████║██║░░██║  ██║░░██║█████╗░░
+██║░░██╗██║░░██║██║╚████║░╚████╔╝░██╔══╝░░██╔══██╗░╚═══██╗██╔══██║██║░░██║  ██║░░██║██╔══╝░░
+╚█████╔╝╚█████╔╝██║░╚███║░░╚██╔╝░░███████╗██║░░██║██████╔╝██║░░██║╚█████╔╝  ██████╔╝███████╗
+░╚════╝░░╚════╝░╚═╝░░╚══╝░░░╚═╝░░░╚══════╝╚═╝░░╚═╝╚═════╝░╚═╝░░╚═╝░╚════╝░  ╚═════╝░╚══════╝
+
+██████╗░░█████╗░░██████╗███████╗
+██╔══██╗██╔══██╗██╔════╝██╔════╝
+██████╦╝███████║╚█████╗░█████╗░░
+██╔══██╗██╔══██║░╚═══██╗██╔══╝░░
+██████╦╝██║░░██║██████╔╝███████╗
+╚═════╝░╚═╝░░╚═╝╚═════╝░╚══════╝
+
+Narrador: Com mais incentivo para derrotar Ancelot, nomeJogador segue para o último templo a fim de recuperar todo seu poder.
+
+Voz Desconhecida: nomeJogador, foi uma batalha em tanto!
+
+Voz Desconhecida: Precisamos te preparar para sua próxima batalha.
+
+Voz Desconhecida: O poder deste templo são às Conversões de Base, elas serão a agilidade do seu poder. Para derrotar os desafios à frente, você irá precisar dos conhecimentos básicos a fim de quebrar os feitiços que serão lançados a ti. Então preste muita atenção.
+
+Voz Desconhecida: Conversão de base numérica é a passagem da representação de um número de uma base numérica para outra, alterando a simbologia para se adequar à nova base. A base que normalmente usamos é a decimal ou base dez, pois contém dez algarismos (0, 1, 2, 3, 4, 5, 6, 7, 8, 9). Por exemplo, o número inteiro representado em base decimal como 10, pode ser escrito como '1010' em base binária ou 'A' em base hexadecimal.
+
+Voz Desconhecida: A técnica de divisões sucessivas é utilizada para conversão de números inteiros do sistema decimal para qualquer outra base. Esta técnica consiste em dividir o número original pela base 'X', o resto da divisão será um dígito e o resultado da divisão é novamente dividido por X. Esta última etapa se repete até que o resultado da divisão não seja mais divisível.
+
+Voz Desconhecida: Por exemplo, vamos converter o número 47 na base (10) em binário que é a base (2)
+ 
+47 | 2
+ 1  23 | 2
+     1  11 | 2
+         1   5 | 2
+             1   2 | 2
+                 0   1
+ 
+Voz Desconhecida: O resultado será escrito do reusultado da última divisão para a primeira, assim o número 47 em decimal, corresponde a 101111 em binário
+
+Voz Desconhecida: Agora, para a conversão de qualquer base para números decimais é realizada da seguinte forma: É realizada uma somatória dos algarismos da base da direita para a esquerda, onde cada termo da somatória é multiplicado pelo número da base (2 - Caso Binário / 8 - Caso Octal / 16 - Caso Hexadecimal), elevado a um número sequencial iniciado em 0.
+
+Voz Desconhecida: Por exemplo, vamos converter o número 101111 na base (2) em decimal que é a base (10)
+
+  5|  4|  3|  2|  1|  0|
+ 2 | 2 | 2 | 2 | 2 | 2 |
+ 1   0   1   1   1   1
+    
+32 + 0 + 8 + 4 + 2 + 1 = 47
+
+Voz Desconhecida: Os nossos números na primeira linha, representam nossas potências no qual o número da base será elevado.
+
+Voz Desconhecida: Os nossos números na segunda linha representam o número da base, no qual será transformado para decimal, neste caso a base binária o número 2.
+
+Voz Desconhecida: Os nossos números na quarta linha representam o resultado entre a multiplicação de cada elemento do número da base elevado aos expoentes, com cada termo do número em que se deseja converter, que nesse caso é o 101111.
+
+Voz Desconhecida: Ao final, somando-se os resultados é obtido o valor convertido em decimal.
+
+Voz Desconhecida: Lembre-se que para cada base, temos uma quantidade de algarismos, e a cada “estouro” da base, devemos seguir a sequência adicionando uma casa à esquerda e repetindo o processo!
+
+Voz Desconhecida: Base Decimal (10) -> (0, 1, 2, 3, 4, 5, 6, 7, 8, 9)
+
+Voz Desconhecida: Base Binária (2) -> (0, 1)
+
+Voz Desconhecida: Base Octal (8) -> (0, 1, 2, 3, 4, 5, 6, 7)
+
+Voz Desconhecida: Base Hexadecimal (16) -> (0, 1, 2, 3, 4, 5, 6, 7, 8, 9, A, B, C, D, E, F)
+
+Voz Desconhecida: Agora você está pronto para o caminho em frente. Espero que triunfe!
+
+Narrador: E com essa despedida, nomeJogador saiu de sua viagem mística e já estava em apuros novamente.
+
+Ancelot: Parece que você conseguiu chegar até o último templo, mas dessa vez você não escapa! Eu peguei três desafios de um dos livros de matemática mais obscuros somente para você HAHAHAHAHA! Vamos ver se você sairá dessas.

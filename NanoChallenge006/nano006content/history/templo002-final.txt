@@ -1,0 +1,5 @@
+Ancelot: Como pôde derrotar os meus três feitiços? Eu pensei que você estava fraco! Mas este não é o fim... Eu irei preparar desafios maiores... Me aguarde!
+
+Narrador: Ancelot deixa o templo após mandar alguns de seus lacaios distrair nomeJogador por alguns instantes.
+
+nomeJogador: Mas que droga! Da próxima ele não escapa...

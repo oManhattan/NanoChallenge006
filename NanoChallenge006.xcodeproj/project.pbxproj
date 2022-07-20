@@ -7,7 +7,33 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		12C0AE9D28590DD80054CD1F /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12C0AE9C28590DD80054CD1F /* main.swift */; };
+		120B0384286A5ABA0074AD05 /* ChallengeBase.swift in Sources */ = {isa = PBXBuildFile; fileRef = 120B0383286A5ABA0074AD05 /* ChallengeBase.swift */; };
+		120B0386286A786E0074AD05 /* Challenge001.swift in Sources */ = {isa = PBXBuildFile; fileRef = 120B0385286A786E0074AD05 /* Challenge001.swift */; };
+		120B0388286A9AD00074AD05 /* Item.swift in Sources */ = {isa = PBXBuildFile; fileRef = 120B0387286A9AD00074AD05 /* Item.swift */; };
+		120B038A286A9AFD0074AD05 /* Potion.swift in Sources */ = {isa = PBXBuildFile; fileRef = 120B0389286A9AFD0074AD05 /* Potion.swift */; };
+		120B038C286A9C9E0074AD05 /* ItemStack.swift in Sources */ = {isa = PBXBuildFile; fileRef = 120B038B286A9C9E0074AD05 /* ItemStack.swift */; };
+		120B038E286B1AEE0074AD05 /* Inventory.swift in Sources */ = {isa = PBXBuildFile; fileRef = 120B038D286B1AEE0074AD05 /* Inventory.swift */; };
+		120B0390286B467B0074AD05 /* Game.swift in Sources */ = {isa = PBXBuildFile; fileRef = 120B038F286B467B0074AD05 /* Game.swift */; };
+		120B0398286CD5D00074AD05 /* ChallengeUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 120B0397286CD5D00074AD05 /* ChallengeUI.swift */; };
+		120B039A286CDDF90074AD05 /* Challenge.swift in Sources */ = {isa = PBXBuildFile; fileRef = 120B0399286CDDF90074AD05 /* Challenge.swift */; };
+		120B039C286CE8F70074AD05 /* Challenge002.swift in Sources */ = {isa = PBXBuildFile; fileRef = 120B039B286CE8F70074AD05 /* Challenge002.swift */; };
+		12283DB92864FCBA00741B4B /* FileReader.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12283DB82864FCBA00741B4B /* FileReader.swift */; };
+		12283DBD2864FF4400741B4B /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12C0AE9C28590DD80054CD1F /* main.swift */; };
+		12283DBF28662F7600741B4B /* Hero.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12283DBE28662F7600741B4B /* Hero.swift */; };
+		12283DC12866365400741B4B /* Menu.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12283DC02866365400741B4B /* Menu.swift */; };
+		1247506328848D90001A5BEE /* Challenge009.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1247506228848D90001A5BEE /* Challenge009.swift */; };
+		124750652884A68E001A5BEE /* Challenge010.swift in Sources */ = {isa = PBXBuildFile; fileRef = 124750642884A68E001A5BEE /* Challenge010.swift */; };
+		1252441B2886DB840030E2C5 /* FileWriter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1252441A2886DB840030E2C5 /* FileWriter.swift */; };
+		1252441D288799E60030E2C5 /* GameManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1252441C288799E60030E2C5 /* GameManager.swift */; };
+		1252441F288842C90030E2C5 /* FileEditor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1252441E288842C90030E2C5 /* FileEditor.swift */; };
+		12615C012880E6EE00DF73C2 /* Challenge007.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12615C002880E6EE00DF73C2 /* Challenge007.swift */; };
+		12615C032881FAF000DF73C2 /* Challenge008.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12615C022881FAF000DF73C2 /* Challenge008.swift */; };
+		12B7D7F82873691E00120A83 /* Challenge003.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12B7D7F72873691E00120A83 /* Challenge003.swift */; };
+		12C0AEA428592D530054CD1F /* ConsoleIO.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12C0AEA328592D530054CD1F /* ConsoleIO.swift */; };
+		12D720A7287787F3001E1BBB /* Challenge004.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12D720A6287787F3001E1BBB /* Challenge004.swift */; };
+		12D720A9287C9400001E1BBB /* Challenge005.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12D720A8287C9400001E1BBB /* Challenge005.swift */; };
+		12D720AB287CE1E6001E1BBB /* Challenge006.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12D720AA287CE1E6001E1BBB /* Challenge006.swift */; };
+		12F1BF82286F7300001E56B1 /* Number.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12F1BF81286F7300001E56B1 /* Number.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -23,8 +49,34 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		120B0383286A5ABA0074AD05 /* ChallengeBase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChallengeBase.swift; sourceTree = "<group>"; };
+		120B0385286A786E0074AD05 /* Challenge001.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Challenge001.swift; sourceTree = "<group>"; };
+		120B0387286A9AD00074AD05 /* Item.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Item.swift; sourceTree = "<group>"; };
+		120B0389286A9AFD0074AD05 /* Potion.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Potion.swift; sourceTree = "<group>"; };
+		120B038B286A9C9E0074AD05 /* ItemStack.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemStack.swift; sourceTree = "<group>"; };
+		120B038D286B1AEE0074AD05 /* Inventory.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Inventory.swift; sourceTree = "<group>"; };
+		120B038F286B467B0074AD05 /* Game.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Game.swift; sourceTree = "<group>"; };
+		120B0397286CD5D00074AD05 /* ChallengeUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChallengeUI.swift; sourceTree = "<group>"; };
+		120B0399286CDDF90074AD05 /* Challenge.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Challenge.swift; sourceTree = "<group>"; };
+		120B039B286CE8F70074AD05 /* Challenge002.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Challenge002.swift; sourceTree = "<group>"; };
+		12283DB82864FCBA00741B4B /* FileReader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FileReader.swift; sourceTree = "<group>"; };
+		12283DBE28662F7600741B4B /* Hero.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Hero.swift; sourceTree = "<group>"; };
+		12283DC02866365400741B4B /* Menu.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Menu.swift; sourceTree = "<group>"; };
+		1247506228848D90001A5BEE /* Challenge009.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Challenge009.swift; sourceTree = "<group>"; };
+		124750642884A68E001A5BEE /* Challenge010.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Challenge010.swift; sourceTree = "<group>"; };
+		1252441A2886DB840030E2C5 /* FileWriter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FileWriter.swift; sourceTree = "<group>"; };
+		1252441C288799E60030E2C5 /* GameManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameManager.swift; sourceTree = "<group>"; };
+		1252441E288842C90030E2C5 /* FileEditor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FileEditor.swift; sourceTree = "<group>"; };
+		12615C002880E6EE00DF73C2 /* Challenge007.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Challenge007.swift; sourceTree = "<group>"; };
+		12615C022881FAF000DF73C2 /* Challenge008.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Challenge008.swift; sourceTree = "<group>"; };
+		12B7D7F72873691E00120A83 /* Challenge003.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Challenge003.swift; sourceTree = "<group>"; };
 		12C0AE9928590DD80054CD1F /* NanoChallenge006 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = NanoChallenge006; sourceTree = BUILT_PRODUCTS_DIR; };
-		12C0AE9C28590DD80054CD1F /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		12C0AE9C28590DD80054CD1F /* main.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; usesTabs = 1; };
+		12C0AEA328592D530054CD1F /* ConsoleIO.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConsoleIO.swift; sourceTree = "<group>"; };
+		12D720A6287787F3001E1BBB /* Challenge004.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Challenge004.swift; sourceTree = "<group>"; };
+		12D720A8287C9400001E1BBB /* Challenge005.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Challenge005.swift; sourceTree = "<group>"; };
+		12D720AA287CE1E6001E1BBB /* Challenge006.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Challenge006.swift; sourceTree = "<group>"; };
+		12F1BF81286F7300001E56B1 /* Number.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Number.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -38,6 +90,78 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		120B0391286CB91D0074AD05 /* Utils */ = {
+			isa = PBXGroup;
+			children = (
+				12C0AEA328592D530054CD1F /* ConsoleIO.swift */,
+				12283DB82864FCBA00741B4B /* FileReader.swift */,
+				1252441A2886DB840030E2C5 /* FileWriter.swift */,
+				1252441E288842C90030E2C5 /* FileEditor.swift */,
+				12F1BF81286F7300001E56B1 /* Number.swift */,
+			);
+			path = Utils;
+			sourceTree = "<group>";
+		};
+		120B0392286CB9380074AD05 /* Game */ = {
+			isa = PBXGroup;
+			children = (
+				120B038F286B467B0074AD05 /* Game.swift */,
+				1252441C288799E60030E2C5 /* GameManager.swift */,
+				120B0396286CBB1C0074AD05 /* UI */,
+				120B0394286CB9630074AD05 /* Hero */,
+				120B0393286CB94F0074AD05 /* Item */,
+				120B0395286CB9720074AD05 /* Challange */,
+			);
+			path = Game;
+			sourceTree = "<group>";
+		};
+		120B0393286CB94F0074AD05 /* Item */ = {
+			isa = PBXGroup;
+			children = (
+				120B0387286A9AD00074AD05 /* Item.swift */,
+				120B038B286A9C9E0074AD05 /* ItemStack.swift */,
+				120B038D286B1AEE0074AD05 /* Inventory.swift */,
+				120B0389286A9AFD0074AD05 /* Potion.swift */,
+			);
+			path = Item;
+			sourceTree = "<group>";
+		};
+		120B0394286CB9630074AD05 /* Hero */ = {
+			isa = PBXGroup;
+			children = (
+				12283DBE28662F7600741B4B /* Hero.swift */,
+			);
+			path = Hero;
+			sourceTree = "<group>";
+		};
+		120B0395286CB9720074AD05 /* Challange */ = {
+			isa = PBXGroup;
+			children = (
+				120B0383286A5ABA0074AD05 /* ChallengeBase.swift */,
+				120B0397286CD5D00074AD05 /* ChallengeUI.swift */,
+				120B0399286CDDF90074AD05 /* Challenge.swift */,
+				120B0385286A786E0074AD05 /* Challenge001.swift */,
+				120B039B286CE8F70074AD05 /* Challenge002.swift */,
+				12B7D7F72873691E00120A83 /* Challenge003.swift */,
+				12D720A6287787F3001E1BBB /* Challenge004.swift */,
+				12D720A8287C9400001E1BBB /* Challenge005.swift */,
+				12D720AA287CE1E6001E1BBB /* Challenge006.swift */,
+				12615C002880E6EE00DF73C2 /* Challenge007.swift */,
+				12615C022881FAF000DF73C2 /* Challenge008.swift */,
+				1247506228848D90001A5BEE /* Challenge009.swift */,
+				124750642884A68E001A5BEE /* Challenge010.swift */,
+			);
+			path = Challange;
+			sourceTree = "<group>";
+		};
+		120B0396286CBB1C0074AD05 /* UI */ = {
+			isa = PBXGroup;
+			children = (
+				12283DC02866365400741B4B /* Menu.swift */,
+			);
+			path = UI;
+			sourceTree = "<group>";
+		};
 		12C0AE9028590DD80054CD1F = {
 			isa = PBXGroup;
 			children = (
@@ -58,6 +182,8 @@
 			isa = PBXGroup;
 			children = (
 				12C0AE9C28590DD80054CD1F /* main.swift */,
+				120B0392286CB9380074AD05 /* Game */,
+				120B0391286CB91D0074AD05 /* Utils */,
 			);
 			path = NanoChallenge006;
 			sourceTree = "<group>";
@@ -120,7 +246,33 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				12C0AE9D28590DD80054CD1F /* main.swift in Sources */,
+				120B0398286CD5D00074AD05 /* ChallengeUI.swift in Sources */,
+				120B0384286A5ABA0074AD05 /* ChallengeBase.swift in Sources */,
+				12283DB92864FCBA00741B4B /* FileReader.swift in Sources */,
+				120B0386286A786E0074AD05 /* Challenge001.swift in Sources */,
+				12F1BF82286F7300001E56B1 /* Number.swift in Sources */,
+				120B038A286A9AFD0074AD05 /* Potion.swift in Sources */,
+				12D720AB287CE1E6001E1BBB /* Challenge006.swift in Sources */,
+				1252441B2886DB840030E2C5 /* FileWriter.swift in Sources */,
+				12615C012880E6EE00DF73C2 /* Challenge007.swift in Sources */,
+				12B7D7F82873691E00120A83 /* Challenge003.swift in Sources */,
+				124750652884A68E001A5BEE /* Challenge010.swift in Sources */,
+				12D720A9287C9400001E1BBB /* Challenge005.swift in Sources */,
+				12283DBF28662F7600741B4B /* Hero.swift in Sources */,
+				120B038E286B1AEE0074AD05 /* Inventory.swift in Sources */,
+				120B039A286CDDF90074AD05 /* Challenge.swift in Sources */,
+				120B038C286A9C9E0074AD05 /* ItemStack.swift in Sources */,
+				120B039C286CE8F70074AD05 /* Challenge002.swift in Sources */,
+				1252441F288842C90030E2C5 /* FileEditor.swift in Sources */,
+				120B0390286B467B0074AD05 /* Game.swift in Sources */,
+				1247506328848D90001A5BEE /* Challenge009.swift in Sources */,
+				120B0388286A9AD00074AD05 /* Item.swift in Sources */,
+				12C0AEA428592D530054CD1F /* ConsoleIO.swift in Sources */,
+				12283DBD2864FF4400741B4B /* main.swift in Sources */,
+				12D720A7287787F3001E1BBB /* Challenge004.swift in Sources */,
+				12615C032881FAF000DF73C2 /* Challenge008.swift in Sources */,
+				12283DC12866365400741B4B /* Menu.swift in Sources */,
+				1252441D288799E60030E2C5 /* GameManager.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -244,6 +396,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = "$(SRCROOT)/NanoChallenge006/Property List.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 			};
@@ -253,6 +406,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = "$(SRCROOT)/NanoChallenge006/Property List.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 			};
